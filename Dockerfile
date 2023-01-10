@@ -1,4 +1,4 @@
-FROM redhat/ubi8
+FROM ubuntu:20.04
 
 MAINTAINER aksarav@middlewareinventory.com
 
